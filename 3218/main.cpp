@@ -1,4 +1,4 @@
-//aceasta solutie da 30p pe pbinfo.ro
+//acest cod da 80p pe pbinfo.ro
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -6,7 +6,7 @@ using namespace std;
 ifstream fin("nrdiv.in");
 ofstream fout("nrdiv.out");
 
-int n,nr,d,cnt,p;
+unsigned long long int n,nr,d,cnt,p;
 
 int main(){
     fin>>n;
