@@ -1,5 +1,3 @@
-//acest cod da 80p pe pbinfo.ro
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -20,8 +18,10 @@ int main(){
                 nr/=d;
                 ++p;
             }
+            if(p)
+                cnt*=(p+1);
             ++d;
-            cnt*=(p+1);
+            
             if(d*d>nr)
                 d = nr;
         }
