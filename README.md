@@ -4,4 +4,4 @@ Daca o problema are **k-** in fata numarului, atunci este de pe <https://kilonov
 
 Daca o problema are **p-** in fata numarului, atunci este de pe <https://www.pbinfo.ro/>
 
-Daca o problema are **-_xxp** in fata numarului, xx fiind un nr oarecare, xx<100, atunci codul dat nu da 100p.
+Daca o problema are **-_xxp** dupa numar, xx fiind un nr oarecare, xx<100, atunci codul dat nu da 100p.
